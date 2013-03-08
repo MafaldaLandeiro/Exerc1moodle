@@ -1,2 +1,2 @@
-Controlo versoes
+Controlo versoes usando Git
 OpenUp
